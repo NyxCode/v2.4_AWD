@@ -1,5 +1,5 @@
 # Cable Channel 
-![img1](./img1.png)
+![img1](./image1.png)
 
 **Note ⚠️:** The channel is designed for a 300mm v2.4/Trident. For other sizes, modifications to the channel will be necessary.
 
