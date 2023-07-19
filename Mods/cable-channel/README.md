@@ -11,3 +11,6 @@ This is a cable channel for routing the front motor wires to the back of the gan
 - 6x M3 T-nut
 - 16x 2mm ziptie 
 
+## Printing
+Print the parts on the sides, and use snug supports. For better bed adhesion, I recommend using a brim.  
+![image2](image2.png)
